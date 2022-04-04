@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Daniel-Zabbix" height="40" width="40" src="https://symbols.getvecta.com/stencil_104/1_zabbix-icon.10de30d870.png">
+  <img align="center" alt="Daniel-Zabbix" height="40" width="40" src="https://3.bp.blogspot.com/-dW_XiqucLoI/VnIRZ-x3E9I/AAAAAAAAAws/TRk06TWHFI0/s200/zabbix_logo.png">
   <img align="center" alt="Daniel-Grafana" height="40" width="40" src="https://tidahora.com.br/wp-content/uploads/2020/08/1200px-Grafana_logo.svg_.png">
 </div>
   
