@@ -1,4 +1,4 @@
-## Oiii! Eu sou Daniel
+## Olá, eu sou Daniel
  <div>
   <a href="https://github.com/danielsilvapereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsilvapereira&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
